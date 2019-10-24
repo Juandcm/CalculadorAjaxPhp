@@ -1,0 +1,58 @@
+#calcula {
+  height:500px;
+  width:80%;
+  margin-left:10%;
+}
+
+.footerPagina {
+  margin-top:100px;
+  background:rgba(58,47,47,0);
+  background-image:url("../img/footer.png");
+  background-size:cover;background-repeat:no-repeat;height:366px;
+}
+.tituloPrincipal{
+  font-family:ABeeZee, sans-serif;
+  font-size:46px;
+  color:rgb(0,0,0);
+}
+.tituloSecundario{
+  color:rgb(193,184,184);
+  font-family:ABeeZee, sans-serif;
+  margin-bottom:23px;
+}
+
+.botones {
+  width:40px;
+}
+
+.container.estiloDeCalculadora {
+  background: #c6c1c1;
+  max-width:60%;
+  min-width:40%;
+}
+.fuenteicono{
+  font-size: 26px;
+}
+.color{
+  background: #7a7a7a;
+}
+
+.input-group-addon {
+  font-size:14px;
+  font-weight:400;
+  line-height:1;
+  color:#555;
+  text-align:center;
+}
+
+.icono {
+}
+
+.subirUnPoco {
+  margin-top:15px;
+}
+
+.numeros {
+  width:90%;
+}
+
